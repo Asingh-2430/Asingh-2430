@@ -3,13 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asingh-2430&label=Profile%20views&color=0e75b6&style=flat" alt="asingh-2430" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asingh-2430" alt="asingh-2430" /></a> </p>
+- 🔭 I’m currently working on **Handwritten Character Recognition in Python**
+
+- 🌱 I’m currently learning **Data Science tools and libraries, including Pandas, NumPy, Matplotlib, and other data analysis frameworks**
+
+- 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
+
+- 🤝 I’m looking for help with **Enhancing the performance of data-driven models in Handwritten Character Recognition**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Asingh-2430](https://github.com/Asingh-2430)
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Data Science, Analytics, and Machine Learning**
 
 - 📫 How to reach me **asinghchatrath@gmail.com**
+
+- ⚡ Fun fact **I love uncovering insights from data and making it accessible to everyone!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
